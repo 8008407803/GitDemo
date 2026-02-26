@@ -8,8 +8,7 @@ public class GitPractice {
 		System.out.println("change 3");
 		
 		System.out.println("new Data");
-		System.out.println("need to add");
-		System.out.println("for conflict");
+	
 		// fjnjt
 		// tiihrr
 		// 4ih5ih45
@@ -17,6 +16,10 @@ public class GitPractice {
 		System.out.println("change 4");
 		System.out.println("change 5");
 		System.out.println("change 6");
+		
+		System.out.println("need to add");
+		System.out.println("for conflict");
 	}
+	
 
 }
