@@ -10,4 +10,7 @@ public class GitBranch1 {
 		System.out.println("kdfhrkrht");
 	}
 
+	public void newChange() {
+		System.out.println("New Change");
+	}
 }
